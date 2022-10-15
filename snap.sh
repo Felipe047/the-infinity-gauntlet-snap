@@ -88,6 +88,9 @@ vim-addon-manager install youcompleteme
 sudo apt install npm -y
 sudo apt install cmdtest -y
 
+# Install rust
+sudo apt  install cargo -y
+
 # load node and typescript
 sudo apt install nodejs
 sudo npm install typescript -g
