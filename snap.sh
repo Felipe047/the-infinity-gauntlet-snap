@@ -91,6 +91,9 @@ sudo apt install cmdtest -y
 # Install rust
 sudo apt  install cargo -y
 
+# Install solana cli
+sudo cargo install spl-token-cli
+
 # load node and typescript
 sudo apt install nodejs
 sudo npm install typescript -g
