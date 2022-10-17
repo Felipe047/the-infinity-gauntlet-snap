@@ -91,6 +91,9 @@ sudo apt install cmdtest -y
 # Install rust
 sudo apt  install cargo -y
 
+sudo apt-get install libssl-dev
+sudo apt install pkg-config
+
 # Install solana cli
 sudo cargo install spl-token-cli
 
